@@ -7,14 +7,14 @@ const table = document.querySelector("#pixelCanvas");
 const btn = document.querySelector("#button");
 
 // When size is submitted by the user, call makeGrid()
-function makeGrid(width, height) {
-    table.innerHTML = [];
-    for (let i = 0; i < height; i++) {
-        const createRow = document.createElement("tr");
-        table.appendChild(createRow);
-        for (let j = 0; j < width; j++) {
-            const createCell = document.createElement("td");
-            createRow.appendChild(createCell)
+function makeGrid(rows, columns) {
+    table.innerHTML = "";
+    for (let i = 0; i < rows; i++) {
+        const row = document.createElement("tr");
+        table.appendChild(row);
+        for (let j = 0; j < columns; j++) {
+            const column = document.createElement("td");
+            row.appendChild(column)
         }
     }
 }

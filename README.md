@@ -1,6 +1,7 @@
 # Pixel Art Maker Project
 
-Pixel Art Maker is a single page Web App that allows the users to draw pixel art. This project is part of the Udacity Front-End Program and through the course the starter code included the HTML and CSS files.
+This project is part of the Udacity Front-End Program, the course included the HTML and CSS files as the starter code.
+This project is a Single-page Web App that allows the users to draw pixel art on a customizable canva. The user by selecting the number of rows and columns can set the size of the table and simultaneously can select between a range of colors.
 
 ## Table of Contents
 
@@ -12,15 +13,14 @@ Pixel Art Maker is a single page Web App that allows the users to draw pixel art
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
-
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
 ## Resources Used 
-- [MDN Web Web Docs](https://developer.mozilla.org/en-US/)
-- [w3schools](https://www.w3schools.com/)
+
 - [The Modern Javascript Tutorial](https://javascript.info/)
 - [JavaScript Tutorial](https://www.javascripttutorial.net/)
+- [MDN Web Web Docs](https://developer.mozilla.org/en-US/)
+- [w3schools](https://www.w3schools.com/)
 - [Atta](https://attacomsian.com/)
 ## Contributing
 

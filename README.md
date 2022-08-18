@@ -5,7 +5,7 @@ Pixel Art Maker is a single page Web App that allows the users to draw pixel art
 ## Table of Contents
 
 - [Instructions](#instructions)
-- [ResourcesUsed](#ResourcesUsed)
+- [Resources Used](#ResourcesUsed)
 - [Contributing](#contributing)
 - [Author](#Author)
 - [License](#License)

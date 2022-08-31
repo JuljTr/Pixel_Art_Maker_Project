@@ -13,7 +13,7 @@ This project is a Single-page Web App that allows the users to draw pixel art on
 
 ## Instructions
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+For specific detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
 ## Resources Used 
 
